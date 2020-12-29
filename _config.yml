@@ -15,7 +15,7 @@ description: 'I''m a Tech Evangelist, I Love AI, Deep Learning, Maths, Competiti
 
 '
 show_excerpts: false
-paginate: 3
+paginate: 4
 paginate_path: "/page:num/"
 tag_permalink_style: pretty
 tag_page_layout: tag_page
@@ -23,7 +23,7 @@ tag_page_dir: tag
 dash:
   date_format: "%b %-d, %Y"
   disqus:
-    shortname: ismailmushraf-github-io
+    shortname: ismailmushraf
   social_links:
   - url: http://ismailmushraf.github.io/about-me
     icon: connectdevelop
