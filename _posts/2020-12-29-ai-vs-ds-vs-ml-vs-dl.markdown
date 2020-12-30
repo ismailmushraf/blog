@@ -1,5 +1,5 @@
 ---
-title: AI vs DS vs ML vs DL
+title: The Brief “Hi”Story of Data Science
 date: 2020-12-29 15:44:00 Z
 tags:
 - ai
@@ -7,8 +7,6 @@ tags:
 description: Why Data Science and AI is Different!!!
 layout: post
 ---
-
-## The Brief “Hi”Story of Data Science
 
 ![](https://cdn-images-1.medium.com/max/2000/1\*ubde-Fkr9MeohJo0EuqQNQ.gif)
 
