@@ -23,7 +23,7 @@ tag_page_dir: tag
 dash:
   date_format: "%b %-d, %Y"
   disqus:
-    shortname: ismailmushraf
+    shortname: micoder
   social_links:
   - url: http://ismailmushraf.github.io/about-me
     icon: connectdevelop
