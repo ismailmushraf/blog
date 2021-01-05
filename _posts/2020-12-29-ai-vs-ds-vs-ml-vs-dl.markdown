@@ -8,11 +8,11 @@ description: Why Data Science and AI is Different!!!
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1\*ubde-Fkr9MeohJo0EuqQNQ.gif)
+![1.gif](/uploads/1.gif)
 
 > If You’re new to any of these Technologies like Machine Learning, Deep Learning, Data Science. I’m almost Sure that you’ll be confused with these words and You can clear out that Confusions by Reading this Post.
 
-Contents: 
+Contents:
 
 ## 1. What is Data Science
 
@@ -34,7 +34,7 @@ Data Science is a field which is a collection of various kind of Disciplines tha
 
 ### - Why Statistics and Data Science is Different?
 
-![](https://cdn-images-1.medium.com/max/6668/1\*jzzsouAtjDHmmerXMAVCvg.jpeg)
+![2.jpeg](/uploads/2.jpeg)
 
 Statistics is a Field of Mathematics that Deals with the Collection, Organization, Presentation, Analysis and Interpretation of the Numerical Data.
 
@@ -42,7 +42,7 @@ Then Why “Data Science” is Important? The Data Science gains Its popularity 
 
 > 5 tasks in Data Science
 
-![](https://cdn-images-1.medium.com/max/2000/1\*Qrw8Ajx5IA9GVy2pyqk_Pg.png)
+![3.png](/uploads/3.png)
 
 ### 1. Collecting Data
 
@@ -92,7 +92,7 @@ C. Data Scaling, Normalizing, Standardizing: I will cover these Topics in anothe
 
 ### 4. Describing Data
 
-![](https://cdn-images-1.medium.com/max/2000/1\*ei_Ce5ZqUHkhF9N1oku3Hg.gif)
+![4.gif](/uploads/4.gif)
 
 In this Task We need to Visualize our Data to Get Insights from it. And now we have Access to Tools like Matplotlib, Seaborn, Tableau, etc. to Visualize our Data Easily with the Help of small bunch of Codes. Also, we have to Summarize our Data for Data Analysis.
 
@@ -102,7 +102,7 @@ In Data Science, We Use Statistical Modelling and we build Simple Robust Statist
 
 > The Myths About Data Science and AI 🤖
 
-![](https://cdn-images-1.medium.com/max/2000/1\*SeirZJ3sAZP0FtR6Ws5BGA.gif)
+![5.gif](/uploads/5.gif)
 
 \#1. Data Science is not Big Data and Deep Learning. Yeah, there is Data Science in Big Data and in Deep Learning in some way.
 
@@ -128,7 +128,7 @@ What is that Connection? In AI, Decision Making is Important, to Make Decision w
 
 > What is Machine Learning & Deep Learning and How it Relates to Data Science?
 
-![A Neural Network for Classifying Number from 0 to 9](https://cdn-images-1.medium.com/max/2000/1\*8aVsFd0GSVaDXTXVyojc6Q.gif)
+![6.gif](/uploads/6.gif)
 
 Machine Learning & Deep Learning is a Part of Data Science. Also, Deep Learning is an Expanded form of Machine Learning. \*\*\*In Machine Learning We use Algorithmic Modelling Instead of Statistical Modelling in Data Science. \*\*\*We can use Complex Functions. And we use Optimization Techniques to Estimate Function. In Machine Learning, we only care about Prediction, we don’t care about the Underlying Phenomena. The Simple Difference Between Machine Learning and Deep Learning is in Machine Learning Human will decide the Functions to do the Feature Extraction from the Data. But in Deep Learning that job also done by the Computer. Because we have the Computing Power to do so, It is easy now a days. And sometimes, it gives some hidden Insights in that Data that Humans can’t find. That’s why Deep Learning is More Popular in this time. To do Deep Learning and Machine Learning We need a Good Machine with Good Computing Power. But to do Data Science we don’t need that much computing Power, Sometimes we don’t need Computer Either 😎😎.
 
