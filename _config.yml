@@ -1,6 +1,5 @@
 ---
 title: micoder
-url: https://ismailmushraf.github.io
 timezone: UTC
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: https://ismailmushraf.github.io
 author: Ismail Musharaf
 email: ismailmushraf@gmail.com
 description: 'I''m a Tech Evangelist, I Love AI, Deep Learning, Maths, Competitive
