@@ -12,7 +12,7 @@ layout: post
 
 > If You’re new to any of these Technologies like Machine Learning, Deep Learning, Data Science. I’m almost Sure that you’ll be confused with these words and You can clear out that Confusions by Reading this Post.
 
-Contents:
+Contents: 
 
 ## 1. What is Data Science
 
