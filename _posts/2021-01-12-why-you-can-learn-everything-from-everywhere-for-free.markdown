@@ -1,7 +1,7 @@
 ---
 title: Why you can Learn Everything from Everywhere (for free) !!!
 date: 2021-01-12 12:00:00 Z
-categories:
+tags:
 - online-free-courses
 - learning
 description: The Opportunities that you must not miss...!!!
