@@ -27,7 +27,7 @@ dash:
     shortname: micoder
   social_links:
   - url: http://ismailmushraf.github.io/about-me
-    icon: connectdevelop
+    icon: dev
     color: green
   - url: https://twitter.com/ismailmushraf
     icon: twitter-square
