@@ -25,7 +25,7 @@ But the Problem is If you’re not Making yourself up-to-date with new Concepts 
 ![Photo by [sydney Rae](https://unsplash.com/@srz?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/4416/0*hVTXu_khB65B7WDC)
 >  Today I will introduce you to 2 of the Best online Course Providers out there in the Internet. Not only the online courses, they are Providing Online Masters Degree and Micro Masters, Specialization Courses etc.
 
- 1. **[EdX.org](http://edx.org)**
+ **[1. EdX.org](http://edx.org)**
 
 EdX is one of the Major Open Online Course (MOOC) Providers in the Internet. It is founded by Harvard and MIT, two of the world’s Best Tech Universities. In EdX, you’ll get Access to courses Provided by Universities like MIT, Harvard, Texas University and other 120 top ranked Universities and Colleges and these courses are taught by amazing Teachers who are Experts in these Fields.
 
@@ -33,7 +33,7 @@ Edx Provides Courses in Computer Science, Mathematics, Business, Languages, Engi
 
 If you want to just take the course without Certificate then It’s completely Free. Also EdX is providing Certificate for their Courses for a Payment. But If you don’t have much Money and you want to Get a Certificate to put in your Personal Resume or something, you can Apply for Financial Assistance and they’ll Provide you a 90% off in Payment. If you wanna to get Masters from these Universities you can enroll for an Online Masters Degree in EdX.
 
-2. **[Coursera.org](http://coursera.org)**
+**[2. Coursera.org](http://coursera.org)**
 
 Coursera is another Major MOOC Provider founded by Stanford University’s Computer Science professors Andrew Ng and Daphne Koller. They are also Providing Courses from Best Universities and Institutions around the World.
 
