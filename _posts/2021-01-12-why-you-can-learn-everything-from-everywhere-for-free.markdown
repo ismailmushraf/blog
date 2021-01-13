@@ -1,5 +1,5 @@
 ---
-title: Why you can Learn Everything from Everywhere (for free) !!!
+title: Why you can Learn Everything from Everywhere [for free] !!!
 date: 2021-01-12 12:00:00 Z
 tags:
 - online-free-courses
